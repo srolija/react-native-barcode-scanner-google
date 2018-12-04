@@ -121,13 +121,13 @@ public class BarcodeScannerView extends ViewGroup implements CameraSource.AutoFo
 
         if (!hasCameraPermission()) {
             // No camera permission. Alert user.
-            AlertDialog.Builder builder = new AlertDialog.Builder(mContext);
-            builder.setTitle("No Camera permission")
-                .setMessage("Enable camera permission in settings to use the scanner.")
-                .setPositiveButton("Ok", null)
-                .show();
+            // AlertDialog.Builder builder = new AlertDialog.Builder(mContext);
+            // builder.setTitle("No Camera permission")
+            //     .setMessage("Enable camera permission in settings to use the scanner.")
+            //     .setPositiveButton("Ok", null)
+            //     .show();
 
-            return;
+            // return;
         }
 
         /**
