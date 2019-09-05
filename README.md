@@ -1,3 +1,7 @@
+**DEPRECATED: Check following link for details:**  
+https://github.com/ekreutz/react-native-barcode-scanner-google/pull/7#issuecomment-528620721
+
+
 # react-native-barcode-scanner-google
 
 
